@@ -1,5 +1,5 @@
 # Проект e-commerce: анализ совершенных покупок
-> pandas, seaborn, matplotlib, requests
+> Стек - pandas, seaborn, matplotlib, requests
 
 ____
 ## Этапы реализации
